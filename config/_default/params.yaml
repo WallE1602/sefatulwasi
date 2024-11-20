@@ -31,11 +31,13 @@ header:
   navbar:
     enable: true
     blox: "navbar"
+    align: r
     fixed_to_top: true
     show_search: true
+    highlight_active_link: true
     show_theme_chooser: true
     logo:
-      text: "Sefatul Wasi"
+      text: "<Sefatul Wasi>"
 
 # Site footer
 footer:
